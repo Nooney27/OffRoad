@@ -1,0 +1,1 @@
+heightmap converted to greyscale
